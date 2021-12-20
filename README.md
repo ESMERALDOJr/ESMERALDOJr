@@ -8,7 +8,20 @@
   <a href="https://github.com/ESMERALDOJr">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ESMERALDOJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ESMERALDOJr&layout=compact&langs_count=7&theme=dark">
-
+ 
+<div style="display: inline_block"><br>    
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img src="https://img.icons8.com/color/48/000000/css3.png">
+  <img src="https://img.icons8.com/color/48/000000/php.png">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  
+  
+  
+  
  ![Snake animation](https://github.com/ESMERALDOJr/ESMERALDOJr/blob/output/github-contribution-grid-snake.svg)
     </div>    
 
