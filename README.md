@@ -17,8 +17,8 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">  
-  <img align = "right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" height="100" >
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"><br><br>  
+  <img align = "center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="150" >
   
 
   
