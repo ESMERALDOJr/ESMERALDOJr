@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"><br><br>  
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
   <img align = "center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="150" >
   
 
