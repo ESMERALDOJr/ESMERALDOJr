@@ -2,7 +2,7 @@
 
 ### Olá!! eu sou o ESMERALDOJr 👋
 
-- 🔭 Sou estudande de ADS
+- :computer: Sou estudande de ADS
 
 <div align = "center">
   <a href="https://github.com/ESMERALDOJr">
